@@ -39,3 +39,6 @@ if stack.__len__() == 0:
 else:
     print('False')
     
+    
+    
+    
