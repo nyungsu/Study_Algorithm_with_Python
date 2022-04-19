@@ -25,6 +25,15 @@ a1.next = a2
 a2.next = a3
 a3.next = a4
 
+a0.next = a4
 
-print(a1.next)
 
+print(a3.next)
+print(a0.next)
+
+print(a3.next is a0.next)
+
+a = [4,1,8,4,5]
+b = [5,6,1,8,4,5]
+
+print(a[2] is b[3])
