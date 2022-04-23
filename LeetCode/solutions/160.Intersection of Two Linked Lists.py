@@ -51,13 +51,16 @@ skipB = 0
 a_i = a0
 b_i = b0
 
-print(a_i)
-    
-while(a_i is not b_i):
-    if a_i is b_i:
-        intersectVal = a_i.val
-    else:
-        b_i = b_i.next
+# while(a_i is not b_i):
+#     if a_i is b_i:
+#         intersectVal = a_i.val
+#     else:
+#         b_i = b_i.next
     
     # return intersectVal, skipA, skipB
+
+# a0 = ListNode(4)
+a_i = a0
+print(a0.next)
+print(a_i.next)
 
