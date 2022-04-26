@@ -14,7 +14,7 @@
   
 
   
-  https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/225.%20Implement%20Stack%20using%20Queues.py
+ 
   
 </details>
 
