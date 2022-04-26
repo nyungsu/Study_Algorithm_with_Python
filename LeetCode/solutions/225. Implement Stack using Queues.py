@@ -1,7 +1,8 @@
 '''
 https://leetcode.com/problems/implement-stack-using-queues/
 '''
-     
+
+# 문제에 2개 써라는 거 질문     
 class MyStack:
 
     def __init__(self):
