@@ -1,6 +1,5 @@
 # LeetCode
 
-### 1 ~ 200
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
