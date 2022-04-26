@@ -11,11 +11,11 @@
 | Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | 1    | [160.Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                | Easy   | Hash Table, Linked List, Two Pointers                                           | [Time Limit Exceeded](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/160.Intersection%20of%20Two%20Linked%20Lists.py)| 첫 LeetCode,  너무 어려운데?|
-
+| 2    | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                | Easy  | Stack, Queue                                           | [???/???](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/225.%20Implement%20Stack%20using%20Queues.py)| |
   
 
   
-  
+  https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/225.%20Implement%20Stack%20using%20Queues.py
   
 </details>
 
