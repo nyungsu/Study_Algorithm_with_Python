@@ -1,29 +1,26 @@
-from collections import deque
+'''
+https://leetcode.com/problems/top-k-frequent-elements/
+'''
 
-# n = 5
+from collections import Counter
 
-# friends = [i+1 for i in range(n)]
+a = [4,1,-1,2,-1,2,3]
+temp = Counter(a)
 
-# friends = deque(friends)
+print(temp)
+print(temp.keys())
+print()
 
-# for i in range(5):
-#     friends.rotate(-1)
-#     result = friends.popleft()
-#     print(friends)
-#     print(result)
-#     print()
 
-def findTheWinner(n: int, k: int) -> int:
-        friends = [i+1 for i in range(n)]
-        friends = deque(friends)
-        # 둘 중에 뭐가 나을지
-        for i in range(n):
-            friends.rotate(-(k)+1)
-            result = friends.popleft()
-            print(friends)
-            print(result)
-            print()
-        return result
+def topKFrequent(nums: list[int], k: int) -> list[int]:
+        temp = Counter(nums)
+        key_list = []
+        print(temp)
+        for key,val in temp.items():
+            key_list.append([key,val])
+        print(key_list)
+        return key_list
         
-a = findTheWinner(5,2)
-print(a)
+    
+result = topKFrequent(a,2)
+print(result)
