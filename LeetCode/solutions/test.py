@@ -14,12 +14,12 @@ print()
 
 def topKFrequent(nums: list[int], k: int) -> list[int]:
         temp = Counter(nums)
-        key_list = []
-        print(temp)
-        for key,val in temp.items():
-            key_list.append([key,val])
-        print(key_list)
-        return key_list
+        most = temp.most_common(k)
+        result = []
+        for i in range(k):
+            result.append(most[i][0])
+        print(result)
+        return 
         
     
 result = topKFrequent(a,2)
