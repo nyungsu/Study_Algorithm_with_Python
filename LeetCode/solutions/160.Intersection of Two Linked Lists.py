@@ -1,5 +1,4 @@
 '''
-
 문제 이름 : 160.Intersection of Two Linked Lists
 문제 링크 : https://leetcode.com/problems/intersection-of-two-linked-lists/
 문제 풀이 : listA 끝까지 간 후, listB를 이어 붙이고
@@ -7,7 +6,6 @@
             두 값이 같아질 때 까지 끝까지 가면 교차점이 나타난다
 시간 복잡도 : 시간 초과
 공간 복잡도 : O(N)
-
 '''
 # 나의 풀이 : 시간 초과
 class ListNode:
