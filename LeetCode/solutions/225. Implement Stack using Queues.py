@@ -1,8 +1,16 @@
 '''
-https://leetcode.com/problems/implement-stack-using-queues/
+문제 이름 : 225. Implement Stack using Queues
+문제 링크 : https://leetcode.com/problems/implement-stack-using-queues/
+문제 풀이 : stack : 책 쌓기
+            queue : 줄 스기
+시간 복잡도 : O(N)
+공간 복잡도 : O(1)
+
+
 '''
 
-# 문제에 2개 써라는 거 질문     
+# 문제에 2개 써라는 거 질문   
+
 class MyStack:
 
     def __init__(self):
