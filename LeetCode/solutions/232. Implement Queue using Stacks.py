@@ -1,5 +1,9 @@
 '''
-https://leetcode.com/problems/implement-queue-using-stacks/
+문제 이름 : 232. Implement Queue using Stacks
+문제 링크 : https://leetcode.com/problems/implement-queue-using-stacks/
+문제 풀이 : stack 책 쌓기, queue 줄 스기
+시간 복잡도 : O(N)
+공간 복잡도 : O(1)
 '''
 
 class MyQueue:
