@@ -1,26 +1,18 @@
-'''
-https://leetcode.com/problems/top-k-frequent-elements/
-'''
+from itertools import permutations
 
-from collections import Counter
-
-a = [4,1,-1,2,-1,2,3]
-temp = Counter(a)
-
-print(temp)
-print(temp.keys())
-print()
-
-
-def topKFrequent(nums: list[int], k: int) -> list[int]:
-        temp = Counter(nums)
-        most = temp.most_common(k)
-        result = []
-        for i in range(k):
-            result.append(most[i][0])
-        print(result)
-        return 
+table = {2 : 'a b c',
+        3 : 'd e f',
+        4 : 'g h i',
+        5 : 'j k l',
+        6 : 'm n o',
+        7 : 'p q r s',
+        8 : 't u v',
+        9 : 'w x y z'}
         
+def letterCombinations(digits: str) -> list[str]:
+    int_digits = list(map(int,digits))
+    dict2list = [table[int_digits[i]] for i in range(len(int_digits))]
+    print(dict2list)
+    print(list(map(''.join, permutations(dict2list[0],2))))
     
-result = topKFrequent(a,2)
-print(result)
+letterCombinations(digits='23')
