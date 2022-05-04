@@ -1,3 +1,33 @@
+'''
+문제 이름 : 617. Merge Two Binary Trees
+문제 링크 : https://leetcode.com/problems/merge-two-binary-trees/
+문제 풀이 : 
+시간 복잡도 : 
+공간 복잡도 :
+
+'''
+
+# Definition for a binary tree node.
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+    
+        
+class Solution:
+    def mergeTrees(self, root1, root2):
+        pass        
+        
+        
+        
+        
+
+
+
+
+'''
+트리 노드로 되어있는지 생각 못하고 리스트로 푼 거 . .
 def mergeTrees(root1, root2):
         root1 = [0 if root1[i] == None else root1[i] for i in range(len(root1))]
         root2 = [0 if root2[i] == None else root2[i] for i in range(len(root2))]
@@ -24,3 +54,5 @@ root2 = [2,1,3,None,4,None,7]
 result = mergeTrees(root1,root2)
 
 print(result)
+'''
+
