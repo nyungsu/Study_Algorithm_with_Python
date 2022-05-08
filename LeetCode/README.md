@@ -22,5 +22,15 @@
 | 5    | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| Medium  | Hash Table, Counting, Quickselect                                         | [O(NlogN)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/347.%20Top%20K%20Frequent%20Elements.py)| |
 </details>
 
+
+
+### 4주차 : Tree (5/12)
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
+| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 1    | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                | Easy  | Tree, DFS                                        | [O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/617.%20Merge%20Two%20Binary%20Trees.py)| |
+
+</details>
 <br />
 <br />
