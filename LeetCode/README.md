@@ -5,7 +5,7 @@
 
 | Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| 1    | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                | Easy   | Hash Table, Linked List,                                           | [Time Limit Exceeded](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/160.Intersection%20of%20Two%20Linked%20Lists.py)| 첫 LeetCode|
+| 1    | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                | Easy   | Hash Table, Linked List,                                           | [Time Limit Exceeded](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.py)| 첫 LeetCode|
 
 
 </details>
@@ -30,7 +30,7 @@
 | Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | 1    | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                | Easy  | Tree, DFS                                        | [O(N)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/617.%20Merge%20Two%20Binary%20Trees.py)| |
-| 2    | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                | Easy  | Tree, DFS, BFS                                        | [O(N)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)| 재귀함수 어렵네 .. |
+| 2    | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                | Easy  | Tree, DFS                                        | [O(N)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)| 재귀함수 어렵네 .. |
 </details>
 <br />
 <br />
