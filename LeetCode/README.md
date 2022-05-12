@@ -30,7 +30,7 @@
 | Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | 1    | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                | Easy  | Tree, DFS                                        | [O(N)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/617.%20Merge%20Two%20Binary%20Trees.py)| |
-| 2    | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                | Easy  | Tree, DFS, BFS                                        | [O(N)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)| 재귀함수 어렵네 .. |
+| 2    | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                | Easy  | Tree, DFS                                        | [O(N)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)| 재귀함수 어렵네 .. |
 </details>
 <br />
 <br />
