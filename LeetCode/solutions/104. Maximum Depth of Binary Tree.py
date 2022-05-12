@@ -8,6 +8,7 @@
 '''
 
 # Definition for a binary tree node.
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
@@ -19,9 +20,10 @@ class Solution:
     def maxDepth(self, root: TreeNode) -> int:
         if root == None : 
             return 0
-        return max(self.maxDepth(root.left),self.maxDepth(root.right))+1
-
+        root.left = self.maxDepth(root.left)
+        root.right = self.maxDepth(root.right)
         
+        return max(root.left,root.right)+1
 
 f = TreeNode(val=7,left=None,right=None)
 e = TreeNode(val=7,left=None,right=f)
