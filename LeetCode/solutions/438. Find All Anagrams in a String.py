@@ -1,9 +1,9 @@
 '''
 문제 이름 : 438. Find All Anagrams in a String
 문제 링크 : https://leetcode.com/problems/find-all-anagrams-in-a-string/
-문제 풀이 :  
-시간 복잡도 : 
-공간 복잡도 :
+문제 풀이 : 만능 Counter 설
+시간 복잡도 : O(N)
+공간 복잡도 : O(N)
 '''
 
 from collections import Counter
