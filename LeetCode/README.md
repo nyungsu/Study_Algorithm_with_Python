@@ -32,7 +32,7 @@
 | 1    | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                | Easy  | Tree, DFS                                        | [O(N)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/617.%20Merge%20Two%20Binary%20Trees.py)| |
 | 2    | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                | Easy  | Tree, DFS                                        | [O(N)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)| 재귀함수 어렵네 .. |
 | 3    | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                | Medium  | Tree, DFS                                        | [O(N)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.py)| 4시간 걸림 |
-| 4    | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                | Medium  | Tree, DFS                                        | |  |
+| 4    | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                | Medium  | Tree, DFS                                        | | 못   |
 | 5    | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                | Medium  | Hash, String                                        |[O(N)/O(N)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.py) | 코테 빈출  |
 </details>
 <br />
