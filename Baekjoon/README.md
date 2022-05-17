@@ -19,11 +19,13 @@
 
   | Index  | 문제 | 정답률  | Category| Solution (Time / Space Complexity) | Note |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| 1 | [1427.소트인사이드](https://www.acmicpc.net/problem/1427) | 63% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1427.%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)| - |
+| 1 | [1427.소트인사이드](https://www.acmicpc.net/problem/1427) | 63% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1427.%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)|sort()의 시간복잡도는 NlogN |
 | 2 | [10818.최소, 최대](https://www.acmicpc.net/problem/10818) |42% | 정렬| [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10818.%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80.py)| - |
-| 3 | [2750.수 정렬하기](https://www.acmicpc.net/problem/2750) |	61% | 정렬 |[O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/2750.%EC%84%B8%EC%88%98%EC%A0%95%EB%A0%AC.py)| sort()의 시간복잡도는 NlogN |
-| 4 | [2751.수 정렬하기2](https://www.acmicpc.net/problem/2751) |	30.200% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1157.%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80.py)| 시간제한 |
-| 5 | [11004.k번째 수](https://www.acmicpc.net/problem/11004) |39.392% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/11004.k%EB%B2%88%EC%A7%B8%20%EC%88%98.py)| - |  
+| 3 | [2750.수 정렬하기](https://www.acmicpc.net/problem/2750) |	61% | 정렬 |[O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/2750.%EC%84%B8%EC%88%98%EC%A0%95%EB%A0%AC.py)| - |
+| 4 | [2751.수 정렬하기2](https://www.acmicpc.net/problem/2751) |	30.200% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1157.%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80.py)| - |
+| 5 | [11004.k번째 수](https://www.acmicpc.net/problem/11004) |39.392% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/11004.k%EB%B2%88%EC%A7%B8%20%EC%88%98.py)| - |
+| 6 | [10867.중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) |56.825% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10867.%EC%A4%91%EB%B3%B5%20%EB%B9%BC%EA%B3%A0%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)| - |  
+| 7 | [11656.접미사 배열](https://www.acmicpc.net/problem/11656) |70.121% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10867.%EC%A4%91%EB%B3%B5%20%EB%B9%BC%EA%B3%A0%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)| - |  
 </details>
 
 <br />
