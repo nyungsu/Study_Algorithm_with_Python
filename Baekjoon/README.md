@@ -26,6 +26,7 @@
 | 5 | [11004.k번째 수](https://www.acmicpc.net/problem/11004) |39.392% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/11004.k%EB%B2%88%EC%A7%B8%20%EC%88%98.py)| - |
 | 6 | [10867.중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) |56.825% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10867.%EC%A4%91%EB%B3%B5%20%EB%B9%BC%EA%B3%A0%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)| - |  
 | 7 | [11656.접미사 배열](https://www.acmicpc.net/problem/11656) |70.121% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10867.%EC%A4%91%EB%B3%B5%20%EB%B9%BC%EA%B3%A0%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)| - |  
+| 8 | [2075.N번째 큰 수](https://www.acmicpc.net/problem/2075) |39.369% | 힙정렬 | | 못 품 |  
 </details>
 
 <br />
