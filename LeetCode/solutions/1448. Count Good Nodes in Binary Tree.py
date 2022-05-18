@@ -27,7 +27,7 @@ class Solution:
     def dfs(self,node:TreeNode,max_val):
         if not node:
             return 0
-        
+     
         # max값과 현재 노드 비교 
         if node.val >= max_val:
             self.good_node += 1
