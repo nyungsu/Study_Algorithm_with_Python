@@ -26,8 +26,13 @@
 | 5 | [11004.k번째 수](https://www.acmicpc.net/problem/11004) |39.392% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/11004.k%EB%B2%88%EC%A7%B8%20%EC%88%98.py)| - |
 | 6 | [10867.중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) |56.825% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10867.%EC%A4%91%EB%B3%B5%20%EB%B9%BC%EA%B3%A0%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)| - |  
 | 7 | [11656.접미사 배열](https://www.acmicpc.net/problem/11656) |70.121% | 정렬 | [O(NlogN)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10867.%EC%A4%91%EB%B3%B5%20%EB%B9%BC%EA%B3%A0%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)| - |  
-| 8 | [2075.N번째 큰 수](https://www.acmicpc.net/problem/2075) |39.369% | 힙정렬 | | 못 품 |  
+| 8 | [2075.N번째 큰 수](https://www.acmicpc.net/problem/2075) |	39.378%| Heap | [못 품](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/2075.N%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98.py) | 메모리 초과 | 
 | 9 | [1978.소수 찾기](https://www.acmicpc.net/problem/1978) |	47.356%| 소수 | [O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1978.%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) | - |  
+| 10 | [1934.최소공배수](https://www.acmicpc.net/problem/1934) |	58.411%| LCM | [O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1943.%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py) | - |  
+| 11 | [2609.최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |	59.558%| LCM,GCD | [O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/2609.%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py) | - | 
+| 13 | [2960.에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |	54.271%| ?? | [못 품](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/2960.%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4.py) | 못 품 | 
+</details>
+
 </details>
 
 <br />
