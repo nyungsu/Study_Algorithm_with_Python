@@ -1,8 +1,8 @@
 '''
 문제 이름 : 10867.중복 빼고 정렬하기
 문제 링크 : https://www.acmicpc.net/problem/10867
-시간 복잡도 : 
-공간 복잡도 : 
+시간 복잡도 : O(NlogN)
+공간 복잡도 : O(N)
 '''
 
 n = int(input())
