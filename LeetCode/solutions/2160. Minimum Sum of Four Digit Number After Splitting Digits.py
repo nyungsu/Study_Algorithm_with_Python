@@ -3,7 +3,7 @@
 문제 링크 : https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 문제 풀이 : 와 개어이없다 이거
 시간 복잡도 : O(NlogN)
-공간 복잡도 : O(1)
+공간 복잡도 : O(N)
 
 '''
 
