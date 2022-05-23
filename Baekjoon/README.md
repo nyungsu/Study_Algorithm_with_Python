@@ -33,7 +33,13 @@
 | 13 | [2960.에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |	54.271%| ?? | [못 품](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/2960.%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4.py) | 못 품 | 
 </details>
 
-</details>
+### 3주차 : 이분탐색
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| Index  | 문제 | 정답률  | Category| Solution (Time / Space Complexity) | Note |
+| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 1 | [1920. 수 찾기](https://www.acmicpc.net/problem/1920) |29.911% | 이분 탐색 | [O(n)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1920.%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)| 이분 탐색으로 못 품 |
+
 
 <br />
 <br />
