@@ -40,6 +40,7 @@
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | 1 | [1920. 수 찾기](https://www.acmicpc.net/problem/1920) |29.911% | 이분 탐색 | [O(n)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1920.%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)| 이분 탐색으로 못 품 |
 | 2 | [10815. 숫자 카드](https://www.acmicpc.net/problem/10815) |	48.513% | 이분 탐색 | [O(n)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10815.%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C.py)| 이분 탐색으로 못 품 |
+| 3 | [10816. 숫자 카드2](https://www.acmicpc.net/problem/10816) | 35.533% | 이분 탐색 | [O(n)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10816.%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%202.py)| Counter |
 
 <br />
 <br />
