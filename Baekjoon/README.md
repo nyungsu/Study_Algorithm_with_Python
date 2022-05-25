@@ -30,7 +30,7 @@
 | 9 | [1978.소수 찾기](https://www.acmicpc.net/problem/1978) |	47.356%| 소수 | [O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1978.%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) | - |  
 | 10 | [1934.최소공배수](https://www.acmicpc.net/problem/1934) |	58.411%| LCM | [O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1943.%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py) | - |  
 | 11 | [2609.최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |	59.558%| LCM,GCD | [O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/2609.%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py) | - | 
-| 13 | [2960.에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |	54.271%| ?? | [못 품](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/2960.%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4.py) | 못 품 | 
+| 13 | [2960.에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |	54.271%|  | [못 품](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/2960.%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4.py) | 못 품 | 
 </details>
 
 ### 3주차 : 이분탐색
@@ -40,6 +40,7 @@
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | 1 | [1920. 수 찾기](https://www.acmicpc.net/problem/1920) |29.911% | 이분 탐색 | [O(n)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/1920.%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)| 이분 탐색으로 못 품 |
 | 2 | [10815. 숫자 카드](https://www.acmicpc.net/problem/10815) |	48.513% | 이분 탐색 | [O(n)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10815.%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C.py)| 이분 탐색으로 못 품 |
+| 3 | [10816. 숫자 카드2](https://www.acmicpc.net/problem/10816) | 35.533% | 이분 탐색 | [O(n)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10816.%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%202.py)| Counter |
 
 <br />
 <br />
