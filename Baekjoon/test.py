@@ -1,12 +1,21 @@
-'''
-a의 알파벳의 순서를 바꾸어 b를 만들 수 있다면
-애너그램
-'''
-from collections import Counter
-a = 'aba'
-b = 'aab'
+def bs(start, end, target, nums):
+    if start> end:
+        return 0
+    
+    mid = (start + end)//2
+    
+    if target == nums[mid] :
+        return print(1)
+    
+    elif target > nums[mid] :
+        start = mid +1
+        bs(start,end,target,nums)
+    
+    elif target < nums[mid] :
+        end = mid-1
+        bs(start,end,target,nums)
+        
+a = [1,2,3,4,5]
 
-a = Counter(a)
-b = Counter(b)
 
-print(a == b)
+bs(start = 0,end = len(a)-1,target = 1 ,nums=a)
