@@ -5,7 +5,7 @@
 공간 복잡도 : O(1)
 '''
 
-# # solution 1 : set + in 이용
+# solution 1 : set + in 이용
 N1 = int(input())
 target_nums = set(map(int,input().split()))
 
@@ -28,34 +28,27 @@ target_nums.sort()
 N2 = int(input())
 nums = list(map(int,input().split()))
 
-result = []
+start = 0
+end = N1-1
 
-def bs(target_nums,num):
-    if len(target_nums) % 2 == 0:
-        mid = target_nums[(len(target_nums)//2)-1]     
-    else :
-        mid = target_nums[len(target_nums)//2]
-
-    if target_nums[-1] < num:
+def bs(start, end, target, nums):
+    if start >= end:
         return print(0)
-    if mid == num :
+                
+    mid = (start + end)//2
+    
+    if target == nums[mid] :
         return print(1)
     
-    elif num<mid :
-        target_nums = target_nums[:mid]
-        bs(target_nums,num)
+    elif target > nums[mid] :
+        start = mid +1
+        bs(start,end,target,nums)
     
-    elif num>mid :
-        target_nums = target_nums[mid:]
-        bs(target_nums,num)
-
-
+    elif target < nums[mid] :
+        end = mid-1
+        bs(start,end,target,nums)
 
 for i in nums:
-    bs(target_nums,i)
-    
-# print(result) 
+    bs(start=0, end=N1, target=i, nums=target_nums)
 
-
-    
     
