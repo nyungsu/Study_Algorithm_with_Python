@@ -49,3 +49,15 @@
 | 4    | [324. Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)                | Medium  |Sorting| [못 품](https://github.com/nyungsu/Algorithm_with_Python/blob/main/LeetCode/solutions/324.%20Wiggle%20Sort%20II.py) |못 품, 코테 빈출 |
 | 5    | [1769. Minimum Number of Operations](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)                | Medium  |String| |못 품 |
 </details>
+
+### 6주차 : 해시 테이블 (5/26)
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
+| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 1    | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                | Easy  | Hash Table, Array                                      |[]() |  |
+| 2    | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                | Easy  | Hash Table, String                                   | []()|  |
+| 3    | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)                | Easy  | Hash Table, String                                        |[]()| |
+| 4    | [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)                | Medium  |Hash Tabel| []() | |
+| 5    | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)                | Medium  |Gridy, String| | |
+</details>
