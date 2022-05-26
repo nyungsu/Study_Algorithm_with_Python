@@ -33,7 +33,7 @@ end = N1-1
 
 def bs(start, end, num, target_nums):
     while(1):
-        if end < start or end < start:
+        if end < start:
             return print(0)
         
         mid = (start + end)//2
