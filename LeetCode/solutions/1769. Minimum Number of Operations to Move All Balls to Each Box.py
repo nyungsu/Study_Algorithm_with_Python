@@ -8,7 +8,7 @@
 '''
 
 class Solution:
-    def minOperations(self, boxes :str) -> List[int]:
+    def minOperations(self, boxes :str) :
         output = []
         tmp = 0
         
