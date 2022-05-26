@@ -20,7 +20,7 @@ for i in nums:
         
 # -----------------------------------------------------------
         
-# solution 2 : 이분탐색, 아직 안 됨
+# solution 2 : 이분탐색
 N1 = int(input())
 target_nums = list(map(int,input().split()))
 target_nums.sort()
@@ -31,24 +31,22 @@ nums = list(map(int,input().split()))
 start = 0
 end = N1-1
 
-def bs(start, end, target, nums):
-    if start >= end:
-        return print(0)
-                
-    mid = (start + end)//2
-    
-    if target == nums[mid] :
-        return print(1)
-    
-    elif target > nums[mid] :
-        start = mid +1
-        bs(start,end,target,nums)
-    
-    elif target < nums[mid] :
-        end = mid-1
-        bs(start,end,target,nums)
+def bs(start, end, num, target_nums):
+    while(1):
+        if end < start or end < start:
+            return print(0)
+        
+        mid = (start + end)//2
+        
+        if num == target_nums[mid]:
+            return print(1)
+        
+        elif num > target_nums[mid]:
+            start = mid + 1
+            
+        elif num < target_nums[mid]:
+            end = mid - 1
+        
 
-for i in nums:
-    bs(start=0, end=N1, target=i, nums=target_nums)
-
-    
+for num in nums:
+    bs(start,end,num,target_nums)
