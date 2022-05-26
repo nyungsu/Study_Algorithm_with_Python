@@ -21,7 +21,7 @@ result = []
   
 for i in range(len(nums)//2):
     result.append(front[i])
-    result.append(back[-i])
+    result.append(back[i])
     
 print(result)
     
