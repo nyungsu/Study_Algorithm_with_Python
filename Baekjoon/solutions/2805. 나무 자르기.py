@@ -45,22 +45,20 @@ N,T = map(int,input().split())
 trees = list(map(int,input().split()))
 
 start, end = 0, max(trees)
-
-while start <= end:
+cut = 0
+while (start <= end):
     mid = (start+end)//2
-    cut = 0
-    
+    cut = 0    
     
     for i in trees:
         if i >= mid:
             cut += i - mid
 
     if cut >= T :
+        result = mid
         start = mid + 1
-       
-    
-    elif cut < T :
+
+    if cut < T :
         end = mid - 1
 
-
-print(end)
+print(result)
