@@ -61,3 +61,27 @@
 | 4    | [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)                | Medium  |Hash Tabel| []() | |
 | 5    | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)                | Medium  |Gridy, String| | |
 </details>
+
+### 7주차 : 그래프 (6/2)
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
+| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 1    | [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)                | Easy  | Graph                                      |[]() |  |
+| 2    | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                | Easy  | Hash Table, Graph                                 | []()|  |
+| 3    | [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)                | Medium  | DFS                                        |[]()| |
+| 4    | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                | Medium  |DFS, Matrix| []() | |
+| 5    | [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)                | Medium  |DFS, BFS| | |
+</details>
+
+### 7주차 : 동적 프로그래밍 (6/9)
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
+| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 1    | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                | Easy  | DP                                      |[]() |  |
+| 2    | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                | Easy  | DP                                 | []()|  |
+| 3    | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)                | Medium  | DP                                    |[]()| |
+| 4    | [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)                | Medium  |DP, Greedy| []() | |
+| 5    | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                | Medium  |DP, Backtracking| | |
+</details>
