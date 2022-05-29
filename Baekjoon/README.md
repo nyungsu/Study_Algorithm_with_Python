@@ -51,8 +51,8 @@
 
 | Index  | 문제 | 정답률  | Category| Solution (Time / Space Complexity) | Note |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| 1 | [10828.스택](https://www.acmicpc.net/problem/10828) |	38.039%| 스택 |[O(1)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10828.%EC%8A%A4%ED%83%9D.py) |  |
-| 2 | [10773.제로](https://www.acmicpc.net/problem/10773) |	67.388% | 스택 | | |
+| 1 | [10828.스택](https://www.acmicpc.net/problem/10828) |	38.039%| 스택 |[O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10828.%EC%8A%A4%ED%83%9D.py) |  |
+| 2 | [10773.제로](https://www.acmicpc.net/problem/10773) |	67.388% | 스택 |[O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/10773.%EC%A0%9C%EB%A1%9C.py) | |
 | 3 | [9012.괄호](https://www.acmicpc.net/problem/9012) | 44.225% | 스택 ||  |
 | 4 | [3986.좋은 단어](https://www.acmicpc.net/problem/3986) | 52.729% | 스택 || |
 | 5 | [18258.큐](https://www.acmicpc.net/problem/18258) | 31.345% | 큐 || |
