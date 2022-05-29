@@ -74,7 +74,7 @@
 | 5    | [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)                | Medium  |DFS, BFS| | |
 </details>
 
-### 7주차 : 동적 프로그래밍 (6/9)
+### 8주차 : 동적 프로그래밍 (6/9)
 <details open> <summary> 접기 / 펼치기 </summary>
 
 | Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
