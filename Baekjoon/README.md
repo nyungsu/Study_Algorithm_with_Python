@@ -56,7 +56,7 @@
 | 3 | [9012.괄호](https://www.acmicpc.net/problem/9012) | 44.225% | 스택 ||  |
 | 4 | [3986.좋은 단어](https://www.acmicpc.net/problem/3986) | 52.729% | 스택 || |
 | 5 | [18258.큐2](https://www.acmicpc.net/problem/18258) | 31.345% | 큐 |[O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/18258.%ED%81%902.py)| |
-| 6 | [2164.카드2](https://www.acmicpc.net/problem/2164) | 	52.324% | 큐 || |
+| 6 | [2164.카드2](https://www.acmicpc.net/problem/2164) | 	52.324% | 큐 |[O(N)/O(1)](https://github.com/nyungsu/Algorithm_with_Python/blob/main/Baekjoon/solutions/2164.%EC%B9%B4%EB%93%9C2.py)| |
 | 7 | [11866.요세푸스 문제](https://www.acmicpc.net/problem/11866) | 	57.216% | 큐|| |
 | 4 | [1021.회전하는 큐](https://www.acmicpc.net/problem/1021) | 	57.744% | 큐 || |
 
