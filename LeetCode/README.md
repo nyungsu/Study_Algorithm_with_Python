@@ -85,3 +85,27 @@
 | 4    | [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)                | Medium  |DP, Greedy| []() | |
 | 5    | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                | Medium  |DP, Backtracking| | |
 </details>
+
+### 9주차 : 분할 정복 (6/16)
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
+| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 1    | [169. Majority Element](https://leetcode.com/problems/majority-element/)                | Easy  | Divide and Conquer                                      |[]() |  |
+| 2    | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                | Easy  | Divide and Conquer                                 | []()|  |
+| 3    | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                | Medium  | Divide and Conquer                                     |[]()| |
+| 4    | [148. Sort List](https://leetcode.com/problems/sort-list/)                | Medium  |Divide and Conquer  | []() | |
+| 5    | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)                | Medium  |Greedy| | |
+</details>
+
+### 10주차 : 탐욕 알고리즘 (6/23)
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| Idx  | Question                                                                                                             | Level  | Category                                                                   | Solution (Time / Space Complexity)   | Note |
+| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 1    | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                | Easy  | Greedy                                      |[]() |  |
+| 2    | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)                | Medium  | Greedy                                 | []()|  |
+| 3    | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/)                | Medium  | Divide and Conquer                                     |[]()| |
+| 4    | [148. Sort List](https://leetcode.com/problems/sort-list/)                | Medium  |Greedy   | []() | |
+| 5    | [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)                | Medium  |Greedy| | |
+</details>
